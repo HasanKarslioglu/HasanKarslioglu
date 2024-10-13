@@ -2,7 +2,7 @@
 
 **`Passionate Cloud and Software Developer`**
 
-I am a highly motivated cloud and software developer with a passion for cloud technologies, specializing in containerization tools like Docker and Kubernetes. With over three years of experience in game development using C++ and strong software engineering skills, I focus on delivering optimized, high-performance solutions. I enjoy building projects from the ground up—managing everything from planning and design to solving real-world challenges through code.
+I am a highly motivated cloud and software developer with a passion for cloud technologies, specializing in containerization tools like Docker and Kubernetes. With over three years of experience in game development using C++ and strong software engineering skills, I focus on delivering optimized, high-performance solutions. I enjoy building projects from scratch, handling everything from planning and design to coding solutions for real-world problems.
 
 I thrive in team environments, embrace agile methodologies like Scrum, and take pride in ensuring that projects are completed efficiently and collaboratively.
 
