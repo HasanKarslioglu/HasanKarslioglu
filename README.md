@@ -16,11 +16,7 @@ Check out the demo for this project here: [Powerful-Backup](https://github.com/H
 
 ---
 
-## 📫 Contact
-
-- **Email**: hasankarslioglu21@gmail.com
-
----
+**Email**: hasankarslioglu21@gmail.com
 
 ### Connect with me
 
