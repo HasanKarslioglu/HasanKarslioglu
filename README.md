@@ -6,16 +6,6 @@ I am a highly motivated cloud and software developer with a passion for cloud te
 
 I thrive in team environments, embrace agile methodologies like Scrum, and take pride in ensuring that projects are completed efficiently and collaboratively.
 
-## 💻 Current Project
-
-I am currently working on a personal project aimed at creating a full backup solution for SQL Server databases, which includes automated cloud uploads for easy storage and access.
-
-### 🎥 Demo
-
-Check out the demo for this project here: [Powerful-Backup](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release)
-
----
-
 **Email**: hasankarslioglu21@gmail.com
 
 ### Connect with me
